@@ -47,7 +47,7 @@ PyCalc.py
 
 ## Screenshots
 
-Include screenshots or GIFs demonstrating the usage and interface of your calculator.
+![Main Window](Py_Calculator.png)
 
 ## Acknowledgments
 
